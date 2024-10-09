@@ -49,3 +49,14 @@ October, 2024
 
 ## Acknowledgements
 Inspired by the paper "Seam Carving for Content-Aware Image Resizing" by Shai Avidan and Ariel Shamir.
+
+## Example of output (please check the report for a better view)
+
+   1 - Original Image , 2 - Grayscale Energy Map, 3 - Original Image with Processed Seams, 4 - Processed (Resized) 85% Image 
+
+   1. <img src="https://github.com/user-attachments/assets/a4092a72-f466-421b-aebd-81f4b17ba617" width="25%" height="25%" alt="field">
+   2. <img src="https://github.com/user-attachments/assets/fd56fafc-20bb-4cf0-98f4-0d17c63ebbf8" width="25%" height="25%" alt="field">
+   3. <img src="https://github.com/user-attachments/assets/2516acb6-09d0-4a22-8bf2-679442bdfbf3" width="25%" height="25%" alt="field">
+   4. <img src="https://github.com/user-attachments/assets/f319a6aa-0136-49a8-8299-fc212cc9e54e" width="25%" height="25%" alt="field">
+
+
