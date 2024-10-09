@@ -41,11 +41,8 @@ This project implements the seam carving algorithm for intelligent image resizin
 - Implement user-defined areas of importance
 - Explore alternative energy functions for improved results
 
-## Author
-Daniel-Ioan Mlesnita
-
-## Date
-October 2, 2024
+## Implementation Date
+October, 2024
 
 ## Version
 1.0
