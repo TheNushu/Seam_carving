@@ -1,0 +1,56 @@
+Image Processing Times with sigma=0.75:
+
+Processing crowd.jpg:
+  Scale factor 0.85: 32.73 seconds
+  Scale factor 0.50: 88.35 seconds
+  Scale factor 1.15: 34.01 seconds
+  Scale factor 1.50: 100.85 seconds
+
+Processing cycle.jpg:
+  Scale factor 0.85: 26.93 seconds
+  Scale factor 0.50: 76.07 seconds
+  Scale factor 1.15: 28.44 seconds
+  Scale factor 1.50: 89.07 seconds
+
+Processing eleph.jpg:
+  Scale factor 0.85: 30.71 seconds
+  Scale factor 0.50: 88.55 seconds
+  Scale factor 1.15: 35.18 seconds
+  Scale factor 1.50: 99.25 seconds
+
+Processing field.jpg:
+  Scale factor 0.85: 35.72 seconds
+  Scale factor 0.50: 96.87 seconds
+  Scale factor 1.15: 32.71 seconds
+  Scale factor 1.50: 103.30 seconds
+
+Processing lots_of_sky_field.jpg:
+  Scale factor 0.85: 28.84 seconds
+  Scale factor 0.50: 76.24 seconds
+  Scale factor 1.15: 28.83 seconds
+  Scale factor 1.50: 87.06 seconds
+
+Processing mountain.jpg:
+  Scale factor 0.85: 30.61 seconds
+  Scale factor 0.50: 86.40 seconds
+  Scale factor 1.15: 31.65 seconds
+  Scale factor 1.50: 100.26 seconds
+
+Processing prague.jpg:
+  Scale factor 0.85: 8.46 seconds
+  Scale factor 0.50: 23.71 seconds
+  Scale factor 1.15: 8.80 seconds
+  Scale factor 1.50: 26.17 seconds
+
+Processing scarce_field.jpg:
+  Scale factor 0.85: 29.95 seconds
+  Scale factor 0.50: 81.71 seconds
+  Scale factor 1.15: 32.74 seconds
+  Scale factor 1.50: 99.66 seconds
+
+Processing sea.jpg:
+  Scale factor 0.85: 2.48 seconds
+  Scale factor 0.50: 7.07 seconds
+  Scale factor 1.15: 2.81 seconds
+  Scale factor 1.50: 8.94 seconds
+
